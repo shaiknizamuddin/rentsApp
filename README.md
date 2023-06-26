@@ -14,5 +14,8 @@ https://www.youtube.com/watch?v=1y5sAnn0ans
 start mongod service and run the api's
 
 #Running the Angular application as a node application.
-build the angular app using `ng build`
-Build and Run the node app and run the client app at: http://localhost:8060/ 
+
+1. Go to Client and run  : ng build
+2. Go to Server and run : npm run server
+3. Access the UI App at : http://localhost:8060/ 
+4. Access the Api's on the same port : http://localhost:8060/ 
